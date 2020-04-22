@@ -4,4 +4,4 @@ This is a GitHub Pages repository, primarily for me to quickly host html files s
 The root of the site is https://haskankaya.github.io
 
 Current files include:
-https://haskankaya.github.io/seurat_tutorial.nb.html
+ - https://haskankaya.github.io/seurat_tutorial.nb.html
