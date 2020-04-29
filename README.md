@@ -1,7 +1,6 @@
 # haskankaya.github.io
-This is a GitHub Pages repository, primarily for me to quickly host html files such as R notebooks. 
+This GitHub Pages repositoryis a quick way to host html files such as R notebooks. 
 
-The root of the site is https://haskankaya.github.io
+Site root: https://haskankaya.github.io
 
-Current files include:
- - https://haskankaya.github.io/r-notebooks/seurat_tutorial.nb.html
+Test file: https://haskankaya.github.io/r-notebooks/seurat_tutorial.nb.html
